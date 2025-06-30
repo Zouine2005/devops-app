@@ -39,3 +39,17 @@ Thumbs.db
 # Homestead
 Homestead.json
 Homestead.yaml
+
+# Docker
+docker-compose.override.yml
+docker-compose.prod.yml
+docker-compose.dev.yml
+
+# Docker volumes
+db_data
+
+# Docker images
+docker-compose.yml
+
+#Binary files
+laravel
