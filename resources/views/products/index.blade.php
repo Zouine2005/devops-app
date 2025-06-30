@@ -42,7 +42,7 @@
                                 </td>
                             </tr>
                         @empty
-                            <tr><td colspan="4" class="text-center py-4">Aucun produit trouvé.</td></tr>
+                            <tr><td colspan="4" class="text-center py-4">Aucun produit trouvée.</td></tr>
                         @endforelse
                     </tbody>
                 </table>
